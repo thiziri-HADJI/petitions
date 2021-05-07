@@ -9,14 +9,14 @@ Ce projet a été réalisé par BARRY Boubacar, BOULID Hamza, HADJI Thiziri, NIN
 
 ## Les liens
 <li></li>
-<li></li>
+<li></li> <br/>
 
 
 ## Fonctionnalités réalisées
 
-Voici des fonctionnalités qu’on a réalisées : 
+Voici des fonctionnalités qu’on a réalisées :
 
-<li>Ajouter/Modifier/Supprimer une pétition</li>
+<li>Ajouter/Modifier/Supprimer une pétition</li>  
 
 Pour créer une pétition nous avons mis en place un formulaire avec six champs : titre et description comme champs obligatoires, thème, tag, une URL d’une image et un nombre de signatures comme objectif à atteindre en champs optionnels.
 
@@ -44,14 +44,16 @@ Dans la catégorie “Parcourir des pétitions”, nous pouvons consulter les p�
 
 En cliquant sur l’icône de Recherche, nous pouvons effectuer une recherche de pétition souhaitée en fonction du titre ou du tag. 
 En fonction du titre, nous pouvons saisir les mots-clés et les pétitions qui les ont dans leurs titres seront affichées. 
-En fonction du tag, nous avons besoin de saisir l’un des tags de la pétition souhaitée et toutes les pétitions avec ce tag seront affichées. 
-
+En fonction du tag, nous avons besoin de saisir l’un des tags de la pétition souhaitée et toutes les pétitions avec ce tag seront affichées.
+<br/>
 
 ## Performance
 
 Nous avons testé les différentes fonctionnalités sur différents systèmes d’exploitation, nous avons également vérifié si notre application est scalable et respecte le délai maximum de 500 ms. Pour cela, le tableau représente un calcule du délai d’exécution de chaque requête , c'est-à-dire le temps qu’il a fallu pour la récupération des données nécessaires depuis la base de données, ou l'envoi de ces derniers pour certaines requêtes.
 
 Ce délais change d’une requête à une autre, il dépend de la quantité d'information à récupérer et non du nombre d’utilisateurs, ce qu’on peut voir sur le tableau par exemple sur la récupération des pétition signé qu’on on récupère les top 100 ça nous prend 343,25 ms alors que 10 pétition prend 72,15 ms.
+</br>
+<img width="673" alt="Performance" src="https://user-images.githubusercontent.com/76114615/117509958-7731cf00-af8b-11eb-8f05-5b04129fb9e8.png">
 
 
 ## Aperçu de l’application
