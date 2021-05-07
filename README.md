@@ -58,7 +58,7 @@ Ce délais change d’une requête à une autre, il dépend de la quantité d'in
 
 ## Aperçu de l’application
 </br>
-<li>Page d'accueil</li></br>
+<li>Page d'accueil/Les pétitions récentes/Les pétitions plus signées</li></br>
 <img width="1437" alt="Page d'accueil" src="https://user-images.githubusercontent.com/76114615/117511803-a7c73800-af8e-11eb-84a3-42d7d84ded04.png">
 
 </br>
