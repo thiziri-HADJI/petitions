@@ -58,7 +58,16 @@ Ce délais change d’une requête à une autre, il dépend de la quantité d'in
 
 ## Aperçu de l’application
 </br>
-<img width="1437" alt="Capture d’écran 2021-05-07 à 23 43 34" src="https://user-images.githubusercontent.com/76114615/117511476-0e982180-af8e-11eb-8cac-eaa7c284255c.png">
+<li>Page d'accueil</li></br>
+<img width="1437" alt="Page d'accueil" src="https://user-images.githubusercontent.com/76114615/117511803-a7c73800-af8e-11eb-84a3-42d7d84ded04.png">
+
+</br>
+<li>Création d'une pétition</li></br>
+<img width="1437" alt="Création" src="https://user-images.githubusercontent.com/76114615/117511771-9da53980-af8e-11eb-9bbd-415903c76a0d.png">
+
+</br>
+<li>Rechercher une pétition en fonction du titre/tag</li></br>
+<img width="1420" alt="Rechercher une pétition" src="https://user-images.githubusercontent.com/76114615/117511931-e826b600-af8e-11eb-8cb1-ca0eabc1fb37.png">
 
 
 ## Conclusion
