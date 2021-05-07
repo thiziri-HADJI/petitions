@@ -57,6 +57,8 @@ Ce délais change d’une requête à une autre, il dépend de la quantité d'in
 
 
 ## Aperçu de l’application
+</br>
+<img width="1437" alt="Capture d’écran 2021-05-07 à 23 43 34" src="https://user-images.githubusercontent.com/76114615/117511476-0e982180-af8e-11eb-8cac-eaa7c284255c.png">
 
 
 ## Conclusion
