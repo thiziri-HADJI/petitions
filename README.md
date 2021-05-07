@@ -8,8 +8,8 @@ Ce projet a été réalisé par BARRY Boubacar, BOULID Hamza, HADJI Thiziri, NIN
 
 
 ## Les liens
-<li>Lien vers l'application : https://cloud-project-302112.appspot.com/index5_.html</li>
-<li></li> <br/>
+<li>Lien vers l'application : https://cloud-project-302112.appspot.com/index5_.html
+<li>Lien vers l'API : https://cloud-project-302112.appspot.com</li> <br/>
 
 
 ## Fonctionnalités réalisées
