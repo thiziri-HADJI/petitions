@@ -58,7 +58,7 @@ Ce délais change d’une requête à une autre, il dépend de la quantité d'in
 
 ## Aperçu de l’application
 </br>
-<li>Page d'accueil/Les pétitions récentes/Les pétitions plus signées</li></br>
+<li>Page d'accueil / Les pétitions récentes / Les pétitions plus signées</li></br>
 <img width="1437" alt="Page d'accueil" src="https://user-images.githubusercontent.com/76114615/117511803-a7c73800-af8e-11eb-84a3-42d7d84ded04.png">
 
 </br>
@@ -68,6 +68,10 @@ Ce délais change d’une requête à une autre, il dépend de la quantité d'in
 </br>
 <li>Rechercher une pétition en fonction du titre/tag</li></br>
 <img width="1420" alt="Rechercher une pétition" src="https://user-images.githubusercontent.com/76114615/117511931-e826b600-af8e-11eb-8cb1-ca0eabc1fb37.png">
+
+</br>
+<li>Mes pétitions créées/signées</li></br>
+<img width="1301" alt="Mes petition" src="https://user-images.githubusercontent.com/76114615/117514834-13ac9f00-af95-11eb-8784-1520e9c6b110.png">
 
 
 ## Conclusion
