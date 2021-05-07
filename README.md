@@ -1,4 +1,4 @@
-# Projet TinyPet
+## Projet TinyPet
 
 Dans le cadre du module développement d'applications sur le Cloud, il nous a été demandé de réaliser une application web pour la gestion des pétitions en s’inspirant des sites existants comme change.org et d’autres.
 
@@ -6,11 +6,13 @@ Dans ce readme nous allons détailler les différentes fonctionnalités réalis�
 
 Ce projet a été réalisé par BARRY Boubacar, BOULID Hamza, HADJI Thiziri, NING Binbing. 
 
-# Les liens
+
+## Les liens
 <li></li>
 <li></li>
 
-# Fonctionnalités réalisées
+
+## Fonctionnalités réalisées
 
 Voici des fonctionnalités qu’on a réalisées : 
 
@@ -45,10 +47,21 @@ En fonction du titre, nous pouvons saisir les mots-clés et les pétitions qui l
 En fonction du tag, nous avons besoin de saisir l’un des tags de la pétition souhaitée et toutes les pétitions avec ce tag seront affichées. 
 
 
-# Performance
+## Performance
 
 Nous avons testé les différentes fonctionnalités sur différents systèmes d’exploitation, nous avons également vérifié si notre application est scalable et respecte le délai maximum de 500 ms. Pour cela, le tableau représente un calcule du délai d’exécution de chaque requête , c'est-à-dire le temps qu’il a fallu pour la récupération des données nécessaires depuis la base de données, ou l'envoi de ces derniers pour certaines requêtes.
 
 Ce délais change d’une requête à une autre, il dépend de la quantité d'information à récupérer et non du nombre d’utilisateurs, ce qu’on peut voir sur le tableau par exemple sur la récupération des pétition signé qu’on on récupère les top 100 ça nous prend 343,25 ms alors que 10 pétition prend 72,15 ms.
 
+
+## Aperçu de l’application
+
+
+## Conclusion
+
+Ce projet est une expérience très intéressante, qui nous a permis d’acquérir des connaissances tout au long de sa réalisation, ainsi que de mettre en pratique ce qu’on a appris durant le module développement d’applications sur le cloud avec un cas réel. 
+
+Au niveau de la gestion d'équipe, la réalisation de TinyPet nous a permis de s’entraider et de partager nos connaissances avec les autres, ainsi que savoir s’organiser et répartir les tâches tout en respectant les deadlines.
+
+Pour réaliser l’interface de notre application web, nous avons utilisé Mithril.js qui est un framework javascript réactif. Ce projet nous a apporté l’opportunité de découvrir Mithril.js utilisé pour concevoir des applications monopage et d’avoir une solution plus efficace pour améliorer les performances.  
 
